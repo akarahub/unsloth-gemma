@@ -1,0 +1,8 @@
+log_dir: folder\
+max_seq_length: 1024
+r: 8          
+lora_alpha: 8
+dataset_path: Thytu/ChessInstruct # Placeholder
+train_output_dir: folder
+max_steps: 100
+saved_model_name: folder
